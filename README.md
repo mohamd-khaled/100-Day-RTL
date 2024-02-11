@@ -7,4 +7,4 @@ I am Mohamed Khaled,I mostly use visual studio code with terosHDL for coding and
 
 Day 1: Clock Divider
 
-Day 2: 8_bit_adder_subtracter
+Day 2: 8 bit adder subtracter
