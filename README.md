@@ -13,4 +13,4 @@ Day 3: 8-bit ALU
 
 Day 4: flip flops
 
-Day 4: 4-bit up down counter
+Day 5: 4-bit up-down counter
