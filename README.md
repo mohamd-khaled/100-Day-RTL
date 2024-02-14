@@ -12,3 +12,5 @@ Day 2: 8-bit adder subtracter
 Day 3: 8-bit ALU
 
 Day 4: flip flops
+
+Day 4: 4-bit up down counter
