@@ -14,3 +14,9 @@ Day 3: 8-bit ALU
 Day 4: flip flops
 
 Day 5: 4-bit up-down counter
+
+Day 6: positive_edge_detector
+
+Day 7: universal_shift_register
+
+Day 8: parity_generator
