@@ -19,4 +19,4 @@ Day 6: positive_edge_detector
 
 Day 7: universal_shift_register
 
-Day 8: parity_generator
+Day 8: parity_generator - SystemVerilog
